@@ -18,21 +18,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="30" height="30"/>
 </p>
 <br><br>
-<!-- Dark mode only -->
-<!--#gh-dark-mode-only-->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andreibalcan&show_icons=true&theme=github_dark" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreibalcan&layout=compact&theme=github_dark" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andreibalcan&show_icons=true&theme=transparent" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreibalcan&layout=compact&theme=transparent" height="180"/>
 </p>
-<!--#gh-dark-mode-only-->
-
-<!-- Light mode only -->
-<!--#gh-light-mode-only-->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andreibalcan&show_icons=true&theme=default" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreibalcan&layout=compact&theme=default" height="180" />
-</p>
-<!--#gh-light-mode-only-->
 <br><br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=andreibalcan&color=blue&style=for-the-badge" alt="Profile Views"/>
